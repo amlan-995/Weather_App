@@ -26,10 +26,10 @@ JavaScript (ES6) → Fetching API data and DOM manipulation.
 OpenWeatherMap API → Provides real-time weather details.
 
 📸 Preview
-<img width="922" height="771" alt="{1698E40D-C20B-4146-ADC0-4606DED3B4AD}" src="https://github.com/user-attachments/assets/06c71265-1803-4648-ba87-a53b42c8e847" />
 
 
-(Add a screenshot or GIF of your app here)
+<img width="220" height="242" alt="{CE703CCE-FB35-4EF7-A8EF-9EF3CCA6B805}" src="https://github.com/user-attachments/assets/4c895b70-3cdb-4d7c-8afe-81fd349be362" />
+
 
 📂 File Structure
 weather-app/
