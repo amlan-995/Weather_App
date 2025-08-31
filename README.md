@@ -25,22 +25,9 @@ JavaScript (ES6) → Fetching API data and DOM manipulation.
 
 OpenWeatherMap API → Provides real-time weather details.
 
-🚀 Getting Started
-1. Clone this repository
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
-
-2. Open index.html in your browser
-3. Replace API Key
-
-Get your free API key from OpenWeatherMap
-.
-
-Open script.js and replace:
-
-const apiKey = "YOUR_API_KEY_HERE";
-
 📸 Preview
+<img width="922" height="771" alt="{1698E40D-C20B-4146-ADC0-4606DED3B4AD}" src="https://github.com/user-attachments/assets/06c71265-1803-4648-ba87-a53b42c8e847" />
+
 
 (Add a screenshot or GIF of your app here)
 
